@@ -1,3 +1,4 @@
-window.alert('Minha primeira messagem')
-window.confirm('Esta gostando de JS?') //ok e cancel
-window.prompt('Qual é o seu nome')  // pergunta o nome
+// esta dentro do script>body>html
+
+var nome = window.prompt('Qual é o seu nome?')  // cria a variavel que pergunta o nome
+window.alert('eae ' + nome) // concatena o nome com o alert
