@@ -13,5 +13,6 @@
 
 
 No terminal digitar "node" para abrir
+para sair .exit
 
 Typeof + variavel para saber o seu tipo
