@@ -10,3 +10,9 @@
 [Branch](https://www.youtube.com/watch?v=xAOBQtSVI_k) Curso em video
 
 [Git](https://www.youtube.com/watch?v=UBAX-13g8OM) How to use git terminal
+
+
+No terminal digitar "node" para abrir
+para sair .exit
+
+Typeof + variavel para saber o seu tipo
