@@ -8,4 +8,4 @@ window.alert('A soma dos valores é ' + s)
 
 //prompt = sring
 // (number + number) para adição
-// (striing + string) para concatenação
+// (striing + string) para concatenação.
